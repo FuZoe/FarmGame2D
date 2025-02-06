@@ -1,0 +1,4 @@
+# 忽略 Unity 的 Library 文件夹
+Library/
+Temp/
+Logs/
