@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Env_background
+    uniqueID: 593085973
+    locked: 0
+  - name: Env_Ground_Bottom
+    uniqueID: 1992342189
+    locked: 0
+  - name: Env_Ground_Top
+    uniqueID: 1898451107
+    locked: 0
+  - name: Env_Building
+    uniqueID: 166908171
+    locked: 0
+  - name: Interactable
+    uniqueID: 1749378813
+    locked: 0
+  - name: Game
+    uniqueID: 3985989503
+    locked: 0

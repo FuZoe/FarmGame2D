@@ -1,0 +1,1978 @@
+fileFormatVersion: 2
+guid: d4fcf1ddd3d9b594f9e9c75ba5160978
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!cleanrobot_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f127218f125afd4a9cf9c7c2f80a6ad
+      internalID: -1616666694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_1'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c44aebc2397b478650524be8cbe70
+      internalID: -1798225732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_2'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190041fe54844941a1c27d99947fc45
+      internalID: -659934965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_3'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13bb939fe1f5d4daa3238886662fda
+      internalID: -129478667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_4'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73beb6ce18085554aa15b2784c7e64c8
+      internalID: 1976685580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_5'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0431cc07b954d0947b98239e7616aa9d
+      internalID: 1873477743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_6'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c587560d965ef1b46bc2a8986a2c3747
+      internalID: 2034777069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_7'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66bc86ad9f73244fb5295e5553da0f8
+      internalID: -301090295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_8'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49732d62d28c13a48ab11ef5301da923
+      internalID: -1040664806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_9'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dae1bcbbc7c564f99fb11e730ed758
+      internalID: 1817034680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_10'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81682cdab635d7a47889ea03787cd4e3
+      internalID: -2096306697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_11'
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 327
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ceca5ae734ac640bb1c790057e4cbb
+      internalID: -265130011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_12'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5911c0a1a46414289f795111faf0d1
+      internalID: -1649217678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_13'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ada856f077a0d498db6c233ae47600
+      internalID: 1201538921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_14'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc6e5369442d54aa848cf57b48da01
+      internalID: -1762767628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_15'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a31fc5d5958e647b41688299dcf76f
+      internalID: -508530529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_16'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd07bb0ae94ebc45abaa4e8ee94c335
+      internalID: 2080413824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_17'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349989ff0e0078e4aaae9817e54f8a43
+      internalID: 1241849699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_18'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a7ea5610d69ef499d2c20197a913b1
+      internalID: -712962653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_19'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5b1bd1ed83f6f42b8eb247d8ece929
+      internalID: -1390050433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_20'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc403e048c4b74193220cf93b90dde
+      internalID: -1083269341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_21'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77db9611e4779343aa5140aaeed8919
+      internalID: 1128068360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_22'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a71e8ef3ee6c9844864d8cfb50d280a
+      internalID: -860082852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_23'
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de86d53b53e642e439c8f5e931467b8c
+      internalID: -1423941632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead8bfb8e60633c40941274dc889b9ed
+      internalID: 485573028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_25'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343e11193f0252f4a9119f3231faeceb
+      internalID: 81888789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_26'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6350f462ed6f204493325b439dadbed
+      internalID: -1254209641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_27'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9bae6579d1094abbc906f143fe5fd
+      internalID: -1737811681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_28'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccb41b2c489b1640829b60c6638fe4d
+      internalID: -1139997728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_29'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65dff5882aaa4c449a353aeb9f9d0f1
+      internalID: 565753560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_30'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c23f5faf6f629649ae6be11e0b7daa2
+      internalID: 1497185341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_31'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bac4da126a6914b8336f10d2887f8a
+      internalID: -423914270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_32'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628dec01d813b684d841861141264478
+      internalID: 492646806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_33'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630adfe6f19628640aeb0302e4f0b849
+      internalID: 1829177959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_34'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f381ad20fb6e9194c8af66bfcdbc7203
+      internalID: -582795252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_35'
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 231
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ea324ba234164fb75bf53713a8ea0
+      internalID: 1114236205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_36'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cadb8325fbb2fb4083974aeddbea3f8
+      internalID: -1337417921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_37'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170e67e15cbb51a4dbd15fd89db797da
+      internalID: -120822344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_38'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd3fb25397e7541950b542e1604b5a
+      internalID: 1382217184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_39'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd8217b1f37a146bfabdd39bb52abb
+      internalID: 1425742283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_40'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb304120927bb42b4a66ce88314a37
+      internalID: 636016290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_41'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b488ec38aab5cb4478553a7451b5f8f7
+      internalID: -1394365573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_42'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936cb01ca32ec84e9dda5579f50b15d
+      internalID: -391029205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_43'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f64d23be4282d4f9678e2b55549cf4
+      internalID: 221728754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_44'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88ad5f9ec7ecb4bae3a4e363cb39f8
+      internalID: 1886102658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_45'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae05ec29d5e6f419b09b033dd9b575
+      internalID: 2109611988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_46'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b79328992b61743893ba8c6d8f83c8
+      internalID: -1399088789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_47'
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 183
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a85e74401b791478c1ddbd6880b76e
+      internalID: -2146460328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d13172e49951f4cb7f0456482a60ab
+      internalID: -946210921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_49'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e1bdf938eca54ab4e315863fae6c1
+      internalID: 989309075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_50'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062fe278b8751ee478cf4b5b597ba857
+      internalID: -1244858147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_51'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0442af0e7897a46aa2d6e710f2493b
+      internalID: -2051430506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_52'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff5f60930803d4fba1751bda14af3b
+      internalID: -795406017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_53'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91441461e0a118a4e96c17499e0094c8
+      internalID: -309409420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_54'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654b35d40fefd24dbb423dc2af67a5c
+      internalID: 205978965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_55'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a796b21fc18246bace7d7753c642f
+      internalID: -25030982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_56'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307afd42fe0de2942a146a6ece70b1fc
+      internalID: 2053669230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_57'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648370c812400ed4c98d66d5437c2875
+      internalID: -995004089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_58'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5dd3861c3c9b499caa37bec78bf64
+      internalID: -1454857818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_59'
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc9dbc6057cb034cb62477d9528a117
+      internalID: -15762853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_60'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f0e3b7c9c50f54e8976a258d962e7d
+      internalID: -165700070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_61'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62b75f92fca6443af53bb8b0b92ef8
+      internalID: 1086255840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_62'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e7bc8a17066340919ee31d558ebda
+      internalID: -771706856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_63'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d2b8635f1da6640948d53b944a3016
+      internalID: -2112817734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_64'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a19d06bb8ffcb4c8c0b867c169dfba
+      internalID: -1402771456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_65'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152cb00a3d8e374fa838b6ea82da4de
+      internalID: -1236183898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_66'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75a7d03248af8c4787440b87243d8d6
+      internalID: -1064830059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_67'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c68d30989def2e4d81b3d47bad48e76
+      internalID: 126755008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_68'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f2f5cab8975ae478cdc7e04b43171e
+      internalID: 13835788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_69'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8d3cb1efe1d864caec7d4667bf14a3
+      internalID: -1004355575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_70'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bc4ff1d3965344fa0f4ae8ae715bc5
+      internalID: -69586300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_71'
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce482216528e9f34fbddcff8579cba62
+      internalID: -403007353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_72'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d6d49b27677c646aac701f0dc76372
+      internalID: 394585097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_73'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae5e07e7db56c49981ed1c7dfb1e72
+      internalID: 1134007936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_74'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a070891f63b4644985908e82da0adc2
+      internalID: -2021530267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_75'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36544d83d0eccc4f952830d94a3ecae
+      internalID: 68331843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_76'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bcf1b3a96893f4ea121c507977d06e
+      internalID: 620541250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_77'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390cedd8ee0164c4d8157871e367b8f9
+      internalID: 590945686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_78'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a6ef94a90948488c78293bcff6015
+      internalID: -185558304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_79'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fce12fa86d6c94199001996f6d7f50
+      internalID: 940522146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_80'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0413a2279917446973c86ae3f68f86
+      internalID: -873789329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_81'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb70fd8b8c325d4bb750a747d65aed6
+      internalID: 1897639065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_82'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f79f5a1e4485142b002d8620222b2b
+      internalID: 1503787316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!cleanrobot_83'
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 39
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7427588ed0c6bdd4cb630951f5c9b2a6
+      internalID: 2046007141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '!cleanrobot_0': -1616666694
+      '!cleanrobot_1': -1798225732
+      '!cleanrobot_10': -2096306697
+      '!cleanrobot_11': -265130011
+      '!cleanrobot_12': -1649217678
+      '!cleanrobot_13': 1201538921
+      '!cleanrobot_14': -1762767628
+      '!cleanrobot_15': -508530529
+      '!cleanrobot_16': 2080413824
+      '!cleanrobot_17': 1241849699
+      '!cleanrobot_18': -712962653
+      '!cleanrobot_19': -1390050433
+      '!cleanrobot_2': -659934965
+      '!cleanrobot_20': -1083269341
+      '!cleanrobot_21': 1128068360
+      '!cleanrobot_22': -860082852
+      '!cleanrobot_23': -1423941632
+      '!cleanrobot_24': 485573028
+      '!cleanrobot_25': 81888789
+      '!cleanrobot_26': -1254209641
+      '!cleanrobot_27': -1737811681
+      '!cleanrobot_28': -1139997728
+      '!cleanrobot_29': 565753560
+      '!cleanrobot_3': -129478667
+      '!cleanrobot_30': 1497185341
+      '!cleanrobot_31': -423914270
+      '!cleanrobot_32': 492646806
+      '!cleanrobot_33': 1829177959
+      '!cleanrobot_34': -582795252
+      '!cleanrobot_35': 1114236205
+      '!cleanrobot_36': -1337417921
+      '!cleanrobot_37': -120822344
+      '!cleanrobot_38': 1382217184
+      '!cleanrobot_39': 1425742283
+      '!cleanrobot_4': 1976685580
+      '!cleanrobot_40': 636016290
+      '!cleanrobot_41': -1394365573
+      '!cleanrobot_42': -391029205
+      '!cleanrobot_43': 221728754
+      '!cleanrobot_44': 1886102658
+      '!cleanrobot_45': 2109611988
+      '!cleanrobot_46': -1399088789
+      '!cleanrobot_47': -2146460328
+      '!cleanrobot_48': -946210921
+      '!cleanrobot_49': 989309075
+      '!cleanrobot_5': 1873477743
+      '!cleanrobot_50': -1244858147
+      '!cleanrobot_51': -2051430506
+      '!cleanrobot_52': -795406017
+      '!cleanrobot_53': -309409420
+      '!cleanrobot_54': 205978965
+      '!cleanrobot_55': -25030982
+      '!cleanrobot_56': 2053669230
+      '!cleanrobot_57': -995004089
+      '!cleanrobot_58': -1454857818
+      '!cleanrobot_59': -15762853
+      '!cleanrobot_6': 2034777069
+      '!cleanrobot_60': -165700070
+      '!cleanrobot_61': 1086255840
+      '!cleanrobot_62': -771706856
+      '!cleanrobot_63': -2112817734
+      '!cleanrobot_64': -1402771456
+      '!cleanrobot_65': -1236183898
+      '!cleanrobot_66': -1064830059
+      '!cleanrobot_67': 126755008
+      '!cleanrobot_68': 13835788
+      '!cleanrobot_69': -1004355575
+      '!cleanrobot_7': -301090295
+      '!cleanrobot_70': -69586300
+      '!cleanrobot_71': -403007353
+      '!cleanrobot_72': 394585097
+      '!cleanrobot_73': 1134007936
+      '!cleanrobot_74': -2021530267
+      '!cleanrobot_75': 68331843
+      '!cleanrobot_76': 620541250
+      '!cleanrobot_77': 590945686
+      '!cleanrobot_78': -185558304
+      '!cleanrobot_79': 940522146
+      '!cleanrobot_8': -1040664806
+      '!cleanrobot_80': -873789329
+      '!cleanrobot_81': 1897639065
+      '!cleanrobot_82': 1503787316
+      '!cleanrobot_83': 2046007141
+      '!cleanrobot_9': 1817034680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

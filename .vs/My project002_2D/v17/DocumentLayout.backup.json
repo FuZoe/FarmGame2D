@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fxq45\\My project002_2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|c:\\users\\fxq45\\my project002_2d\\assets\\dragtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|solutionrelative:assets\\dragtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|C:\\Users\\fxq45\\My project002_2D\\assets\\scripts\\ui\\backpackui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\backpackui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|C:\\Users\\fxq45\\My project002_2D\\assets\\scripts\\ui\\itemmovehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemmovehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|C:\\Users\\fxq45\\My project002_2D\\assets\\scripts\\data\\manager\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442B147-161D-B2A0-C200-BDB1F24BE194}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\manager\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DragTest.cs",
+              "DocumentMoniker": "C:\\Users\\fxq45\\My project002_2D\\Assets\\DragTest.cs",
+              "RelativeDocumentMoniker": "Assets\\DragTest.cs",
+              "ToolTip": "C:\\Users\\fxq45\\My project002_2D\\Assets\\DragTest.cs",
+              "RelativeToolTip": "Assets\\DragTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:11:22.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackPackUI.cs",
+              "DocumentMoniker": "C:\\Users\\fxq45\\My project002_2D\\Assets\\Scripts\\UI\\BackPackUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BackPackUI.cs",
+              "ToolTip": "C:\\Users\\fxq45\\My project002_2D\\Assets\\Scripts\\UI\\BackPackUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BackPackUI.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:43:21.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\fxq45\\My project002_2D\\Assets\\Scripts\\Data\\Manager\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Manager\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\fxq45\\My project002_2D\\Assets\\Scripts\\Data\\Manager\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\Manager\\InventoryManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:42:46.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemMoveHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fxq45\\My project002_2D\\Assets\\Scripts\\UI\\ItemMoveHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemMoveHandler.cs",
+              "ToolTip": "C:\\Users\\fxq45\\My project002_2D\\Assets\\Scripts\\UI\\ItemMoveHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ItemMoveHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:42:36.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

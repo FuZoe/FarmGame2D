@@ -1,0 +1,3 @@
+m_EditorVersion: 2022.3.48t5
+m_EditorVersionWithRevision: 2022.3.48t5 (e75c32210734)
+m_TuanjieEditorVersion: 1.4.2
