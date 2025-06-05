@@ -5,7 +5,7 @@ using UnityEngine;
 public class ItemMoveHandler : MonoBehaviour
 
 {
-    //单例模式
+    //鍗曚緥妯″紡
     public static ItemMoveHandler Instance { get; private set; }
 
     public void Awake()
@@ -15,8 +15,8 @@ public class ItemMoveHandler : MonoBehaviour
 
     public void OnSlotClick(SlotUI slotui)
     {
-        Debug.Log("咋改咋改就是不输出2");
-        print("OnClick" + slotui.name);//咋改咋改就是不输出
+        Debug.Log("Lauch OnSlotClick");
+        print("OnClick" + slotui.name);
     }
 
 

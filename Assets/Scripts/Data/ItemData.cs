@@ -3,15 +3,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum ItemType //Ã¶¾ÙËùÓĞÎïÆ·Ãû³Æ
+public enum ItemType //æšä¸¾æ‰€æœ‰ç‰©å“åç§°
 {
-    None,//Ä¬ÈÏÎª¿Õ
+    None,//é»˜è®¤ä¸ºç©º
     /*money_RMB,
     money_goldcoin,
     money_diamond,*/
     seed_carrot,
     seed_tomato
-    //Êı×éµÄ×îºóÒ»¸öÔªËØ²»¼Ó¶ººÅ£¬Ò²ÊÇºÜ·´ÈËÀà
+    //æ•°ç»„çš„æœ€åä¸€ä¸ªå…ƒç´ ä¸åŠ é€—å·
 }
 
 
@@ -21,6 +21,6 @@ public class ItemData :ScriptableObject
     public ItemType type = ItemType.None;
     public Sprite sprite;
     public GameObject prefab;
-    public int maxCount = 999;//ÈÎÒâÎïÆ·×î´óÊıÁ¿Ä¬ÈÏÎª999£¬ÌØ±ğµÄ¿ÉÒÔµ÷
+    public int maxCount = 999;//ä»»æ„ç‰©å“æœ€å¤§æ•°é‡é»˜è®¤ä¸º999ï¼Œç‰¹åˆ«çš„å¯ä»¥è°ƒ
 
 }

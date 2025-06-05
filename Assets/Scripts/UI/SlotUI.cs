@@ -38,8 +38,8 @@ public class SlotUI : MonoBehaviour , IPointerClickHandler
         {
             iconImage.enabled = true;
             countText.enabled = true;
-            iconImage.sprite = data.item.sprite;//更新物品图标
-            countText.text = data.count.ToString();//更新物品数量角标
+            iconImage.sprite = data.item.sprite;//鏇存柊鐗╁搧鍥炬爣
+            countText.text = data.count.ToString();//鏇存柊鐗╁搧鏁伴噺瑙掓爣
         }
     }
 
@@ -47,7 +47,7 @@ public class SlotUI : MonoBehaviour , IPointerClickHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        Debug.Log("咋改咋改就是不输出1");
+        Debug.Log("launch OnPointerClick");
         ItemMoveHandler.Instance.OnSlotClick(this);
     }
 

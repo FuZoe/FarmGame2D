@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ToolBarSlotUI : SlotUI  //ËüÊÇSlotUIµÄ×ÓÀà£¬SlotUIÓÐµÄ£¬Ëü¶¼ÓÐ
+public class ToolBarSlotUI : SlotUI  
 {
-    public Sprite slotLight;//Â·¾¶»¹Ã»Ö¸¶¨°¡
+    public Sprite slotLight;//è·¯å¾„æœªæŒ‡å®š
     public Sprite slotDark;
 
     private Image image;

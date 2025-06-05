@@ -38,19 +38,19 @@ public class player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Debug.Log("FixedUpdateº¯ÊıÕıÔÚÔËĞĞ");
+        Debug.Log("FixedUpdate is running");
         float x = Input.GetAxisRaw("Horizontal");
         float y = Input.GetAxisRaw("Vertical");
         direction = new Vector2(x, y);
         transform.Translate(direction * speed * Time.deltaTime);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)//Ê°È¡ÎïÆ·µÄº¯Êı£¬Èç¹û²»ĞèÒª£¬¿ÉÒÔ×¢ÊÍµô
-    {//Õâ¸öº¯ÊıÃ»ÓĞµ÷ÓÃ£¬ËüÊÇÔõÃ´ÔËĞĞµÄ£¿
-        Debug.Log("OnTriggerEnter2Dº¯ÊıÕıÔÚÔËĞĞ");
+    private void OnTriggerEnter2D(Collider2D collision)//æ‹¾å–ç‰©å“çš„å‡½æ•°ï¼Œå¦‚æœä¸éœ€è¦ï¼Œå¯ä»¥æ³¨é‡Šæ‰
+    {
+        Debug.Log("OnTriggerEnter2D is running");
         if (collision.tag== "Pickable")
         {
-            Debug.Log("¼ñÆğÎïÆ·");
+            Debug.Log("æ¡èµ·ç‰©å“");
             InventoryManager.Instance.AddToSeedBackpack(collision.GetComponent<Pickable>().type);
             Destroy(collision.gameObject);
         }
