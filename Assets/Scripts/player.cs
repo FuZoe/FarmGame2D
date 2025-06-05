@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEditor.Progress;
 
-public class player : MonoBehaviour
+public class Player : MonoBehaviour
 {
     [SerializeField]
     private float speed = 3;
@@ -54,6 +55,17 @@ public class player : MonoBehaviour
             InventoryManager.Instance.AddToSeedBackpack(collision.GetComponent<Pickable>().type);
             Destroy(collision.gameObject);
         }
+    }
+
+    public void ThrowItem(GameObject itemPrefab,int count)
+    {
+        for (int i = 0; i < count; i++)
+        {
+            GameObject abdItem = GameObject.Instantiate(itemPrefab);
+            Vector2 direction = Random.insideUnitCircle * 1.2f;
+            abdItem.transform.position = transform.position + new Vector3(direction.x, direction.y, 0f);
+        }
+            
     }
 
 }

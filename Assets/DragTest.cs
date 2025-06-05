@@ -16,4 +16,9 @@ public class DragTest : MonoBehaviour
     {
         print("EndDrag" + gameObject.name);
     }
+
+    public void OnDrop()
+    {
+        print("OnDrop" + gameObject.name);
+    }
 }

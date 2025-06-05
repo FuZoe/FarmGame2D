@@ -4,32 +4,37 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [Serializable]
-public class SlotData //Ò»¸ö²Ö¿â¸ñ×Ó
+public class SlotData //ä¸€ä¸ªä»“åº“æ ¼å­
 {
-    public ItemData item;//ÎïÆ·ĞÅÏ¢
-    public int count = 0;//ÎïÆ·³ÖÓĞÊıÁ¿£¬Ä¬ÈÏ0
+    public ItemData item;//ç‰©å“ä¿¡æ¯
+    public int count = 0;//ç‰©å“æŒæœ‰æ•°é‡ï¼Œé»˜è®¤0
 
     private Action Onchange;
 
-    public bool CanAddItem()//ÅĞ¶ÏÎïÆ·ÊÇ·ñÒÑµ½´ïµş¼ÓÉÏÏŞ¡£ÀıÈç±³°üÀïÓĞÁË999¸öºúÂÜ²·ÖÖ×Ó×÷ÎªÒ»¸ö¸ñ×Ó£¬ÔÙ»ñµÃºúÂÜ²·ÖÖ×ÓÊ±»áÁíÍâÕ¼ÓÃÒ»¸öĞÂ¸ñ×Ó
+    public bool CanAddItem()//åˆ¤æ–­ç‰©å“æ˜¯å¦å·²åˆ°è¾¾å åŠ ä¸Šé™ã€‚ä¾‹å¦‚èƒŒåŒ…é‡Œæœ‰äº†999ä¸ªèƒ¡èåœç§å­ä½œä¸ºä¸€ä¸ªæ ¼å­ï¼Œå†è·å¾—èƒ¡èåœç§å­æ—¶ä¼šå¦å¤–å ç”¨ä¸€ä¸ªæ–°æ ¼å­
     {
         if (count < item.maxCount)
             return true;
         else return false;
     }
-    public void AddOne()
+    public void AddOne()//å †å æ•°é‡
     {
         count++;
         Onchange?.Invoke();
     }
-    public void AddItem(ItemData item)//ĞÂÔö¸ñ×Ó
+    public void AddItem(ItemData item)//æ–°å¢æ ¼å­
     {
         this.item = item;
         count = 1;
         Onchange?.Invoke();
     }
-
-    public void AddListener(Action Onchange)//Ò»¸ö¼àÌıº¯Êı£¬ÔÚÖ÷½ÇÊ°È¡ÎïÆ·»òÕß¶ªÆúÎïÆ·Ê±£¬ÈÃ±³°ü½øĞĞË¢ĞÂ
+    public void Clear()
+    {
+        item = null;
+        count = 0;
+        Onchange?.Invoke();
+    }
+    public void AddListener(Action Onchange)//ä¸€ä¸ªç›‘å¬å‡½æ•°ï¼Œåœ¨ä¸»è§’æ‹¾å–ç‰©å“æˆ–è€…ä¸¢å¼ƒç‰©å“æ—¶ï¼Œè®©èƒŒåŒ…è¿›è¡Œåˆ·æ–°
     {
         this.Onchange = Onchange; 
     }

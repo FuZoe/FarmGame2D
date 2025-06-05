@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\UnityProjects\\FarmGame\\",
+  "WorkspaceRootPath": "F:\\UnityProjects\\FarmGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\data\\slotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\slotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\data\\inventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\inventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\dragtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\dragtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\pickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\ui\\toolbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\toolbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\ui\\itemmovehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\ui\\itemmovehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemmovehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\ui\\toolbarslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\data\\slotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\slotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|f:\\unityprojects\\farmgame\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\pickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\ui\\slotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\slotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\ui\\toolbarslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\toolbarslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|g:\\unityprojects\\farmgame\\assets\\scripts\\ui\\slotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\slotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\dragtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\dragtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\data\\inventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\inventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|F:\\UnityProjects\\FarmGame\\assets\\scripts\\ui\\toolbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEADEF-9BCD-0372-5F42-0C968AD34883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\toolbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,133 +62,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAjwEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:16:17.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SlotData.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\SlotData.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\SlotData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SlotData.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\SlotData.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\SlotData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Data\\SlotData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T08:11:27.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ItemData.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\ItemData.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ItemData.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\ItemData.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\ItemData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Data\\ItemData.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwA0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:11:16.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:11:16.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryData.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\InventoryData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\InventoryData.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\InventoryData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\InventoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:11:09.774Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InventoryData.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\InventoryData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\InventoryData.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Data\\InventoryData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Data\\InventoryData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:11:09.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "player.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\player.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\player.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\player.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\player.cs",
               "RelativeToolTip": "Assets\\Scripts\\player.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T08:10:35.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Pickable.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Pickable.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Pickable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pickable.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Pickable.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\Pickable.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pickable.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:10:33.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:10:33.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ToolbarUI.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolbarUI.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolbarUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ToolbarUI.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolbarUI.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolbarUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ToolbarUI.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:10:31.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:10:31.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ItemMoveHandler.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ItemMoveHandler.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ItemMoveHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemMoveHandler.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ItemMoveHandler.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ItemMoveHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ItemMoveHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T08:10:13.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ToolBarSlotUI.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolBarSlotUI.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolBarSlotUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ToolBarSlotUI.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolBarSlotUI.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\ToolBarSlotUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ToolBarSlotUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:10:00.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:10:00.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "SlotUI.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\SlotUI.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\SlotUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SlotUI.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\SlotUI.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\Scripts\\UI\\SlotUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\SlotUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:09:13.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:09:13.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DragTest.cs",
-              "DocumentMoniker": "G:\\UnityProjects\\FarmGame\\Assets\\DragTest.cs",
+              "DocumentMoniker": "F:\\UnityProjects\\FarmGame\\Assets\\DragTest.cs",
               "RelativeDocumentMoniker": "Assets\\DragTest.cs",
-              "ToolTip": "G:\\UnityProjects\\FarmGame\\Assets\\DragTest.cs",
+              "ToolTip": "F:\\UnityProjects\\FarmGame\\Assets\\DragTest.cs",
               "RelativeToolTip": "Assets\\DragTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T07:29:15.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T07:29:15.51Z"
             }
           ]
         }

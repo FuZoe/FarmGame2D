@@ -21,7 +21,10 @@ public class SlotUI : MonoBehaviour , IPointerClickHandler
 
         UpdateUI();
     }
-
+    public SlotData GetData()
+    {
+        return data;
+    }
     private void OnDataChange()
     {
         UpdateUI();
@@ -48,7 +51,15 @@ public class SlotUI : MonoBehaviour , IPointerClickHandler
     public void OnPointerClick(PointerEventData eventData)
     {
         Debug.Log("launch OnPointerClick");
-        ItemMoveHandler.Instance.OnSlotClick(this);
+
+        if (ItemMoveHandler.Instance != null && this != null)
+        {
+            ItemMoveHandler.Instance.OnSlotClick(this);
+        }
+        else
+        {
+            Debug.LogError($"NullReference: Instance={ItemMoveHandler.Instance}, SlotUI={this}");
+        }
     }
 
     
