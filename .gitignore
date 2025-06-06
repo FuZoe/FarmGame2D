@@ -2,6 +2,4 @@
 Library/
 Temp/
 Logs/
-
-# 忽略用户设置文件夹
 UserSettings/
