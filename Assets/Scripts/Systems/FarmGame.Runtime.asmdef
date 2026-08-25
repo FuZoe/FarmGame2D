@@ -1,12 +1,10 @@
 {
-  "name": "FarmGame.Tests",
+  "name": "FarmGame.Runtime",
   "rootNamespace": "",
   "references": [
-    "FarmGame.Runtime"
+    "Assembly-CSharp"
   ],
-  "includePlatforms": [
-    "Editor"
-  ],
+  "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,
@@ -14,8 +12,5 @@
   "autoReferenced": true,
   "defineConstraints": [],
   "versionDefines": [],
-  "noEngineReferences": false,
-  "optionalUnityReferences": [
-    "TestAssemblies"
-  ]
+  "noEngineReferences": false
 }
