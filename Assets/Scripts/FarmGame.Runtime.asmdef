@@ -1,9 +1,7 @@
 {
   "name": "FarmGame.Runtime",
   "rootNamespace": "",
-  "references": [
-    "Assembly-CSharp"
-  ],
+  "references": [],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
