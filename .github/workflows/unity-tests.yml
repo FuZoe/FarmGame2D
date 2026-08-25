@@ -34,6 +34,44 @@ jobs:
             Library-${{ runner.os }}-
             Library-
 
+      - name: Normalize Tuanjie metadata for standard Unity CI
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest_path = Path("Packages/manifest.json")
+          manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+          manifest.get("dependencies", {}).pop("com.unity.modules.infinity", None)
+          manifest_path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+
+          lock_path = Path("Packages/packages-lock.json")
+          lock = json.loads(lock_path.read_text(encoding="utf-8"))
+          lock.get("dependencies", {}).pop("com.unity.modules.infinity", None)
+          for package in lock.get("dependencies", {}).values():
+              if package.get("url") == "https://packages.tuanjie.cn":
+                  package["url"] = "https://packages.unity.com"
+          lock_path.write_text(json.dumps(lock, indent=2) + "\n", encoding="utf-8")
+
+          package_settings = Path("ProjectSettings/PackageManagerSettings.asset")
+          package_settings.write_text(
+              package_settings.read_text(encoding="utf-8").replace(
+                  "https://packages.tuanjie.cn", "https://packages.unity.com"
+              ),
+              encoding="utf-8",
+          )
+
+          version_path = Path("ProjectSettings/ProjectVersion.txt")
+          version_lines = version_path.read_text(encoding="utf-8").replace(
+              "2022.3.48t5", "2022.3.48f1"
+          ).splitlines()
+          version_path.write_text(
+              "\n".join(line for line in version_lines if not line.startswith("m_TuanjieEditorVersion:")) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
       - name: Run Unity EditMode tests
         id: tests
         uses: game-ci/unity-test-runner@v4
