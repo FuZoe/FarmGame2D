@@ -21,3 +21,11 @@ git clone https://github.com/FuZoe/FarmGame2D.git
 - `1` 锄地，`2` 浇水，`3` 选种子，`4` 收获；`E` 使用当前工具，`Z`/`X` 播种胡萝卜/番茄。
 - `N` 与附近 NPC 对话，`B` 买种子，`V` 卖种子，`K` 烹饪，`Q` 接取/领取任务，`Space` 睡觉。
 - `F5` 存档，`F9` 读档，`F1`-`F4` 切换四个场景，`F10` 切换全屏，`PageUp`/`PageDown` 调整音量。
+
+## CI 单元测试
+
+`.github/workflows/unity-tests.yml` 会在每次 push、Pull Request 或手动触发时运行 Unity EditMode 测试，并上传测试结果。GitHub 仓库需要配置以下 Actions Secrets：
+
+- `UNITY_LICENSE`：Unity Personal 许可证文件内容
+- `UNITY_EMAIL`：Unity 账号邮箱
+- `UNITY_PASSWORD`：Unity 账号密码
