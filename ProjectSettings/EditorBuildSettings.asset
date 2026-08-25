@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home.scene
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Spawn.scene
+    guid: 9233ae2c8d955414da2221925dc846a1
+  - enabled: 1
+    path: Assets/Scenes/Restaurant.scene
+    guid: f758b7c67f8b1a54b8a9d15e71f91888
+  - enabled: 1
+    path: Assets/Scenes/alley.scene
+    guid: 1969b2ee2ff1ff941a0bfc9fa267b013
   m_configObjects: {}
   m_SlimFeaturesWeixinMiniGame:
     DecompressASTC: 0

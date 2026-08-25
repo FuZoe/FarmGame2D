@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static UnityEditor.Progress;
 
 public class Player : MonoBehaviour
 {
@@ -39,7 +38,6 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Debug.Log("FixedUpdate is running");
         float x = Input.GetAxisRaw("Horizontal");
         float y = Input.GetAxisRaw("Vertical");
         direction = new Vector2(x, y);
@@ -49,7 +47,7 @@ public class Player : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)//拾取物品的函数，如果不需要，可以注释掉
     {
         Debug.Log("OnTriggerEnter2D is running");
-        if (collision.tag== "Pickable")
+        if (collision.CompareTag("Pickable"))
         {
             Debug.Log("捡起物品");
             InventoryManager.Instance.AddToSeedBackpack(collision.GetComponent<Pickable>().type);

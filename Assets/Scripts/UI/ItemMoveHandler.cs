@@ -50,10 +50,13 @@ public class ItemMoveHandler : MonoBehaviour
 
     public void OnSlotClick(SlotUI slotui)
     {
-        Debug.Log("Lauch OnSlotClick");
-        print("OnClick" + slotui.name);
-        //selectedSlotUI = slotui;
         selectedSlotData = slotui.GetData();
+        if (selectedSlotData == null || selectedSlotData.item == null || selectedSlotData.count <= 0)
+        {
+            Clear();
+            return;
+        }
+
         ShowIcon(selectedSlotData.item.sprite);
     }
 
@@ -80,7 +83,12 @@ public class ItemMoveHandler : MonoBehaviour
     }    
     private void ThrowItem()
     {
-        Debug.Log("Throw Item");
+        if (selectedSlotData == null || selectedSlotData.item == null || selectedSlotData.count <= 0 || player == null)
+        {
+            Clear();
+            return;
+        }
+
         GameObject prefab = selectedSlotData.item.prefab;
         int count = selectedSlotData.count;
         player.ThrowItem(prefab, count);
